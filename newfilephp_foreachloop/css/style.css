@@ -1,0 +1,22 @@
+/* .container {
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+ }  */
+ .row.pardeep {
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-left: 1px;
+}
+span.title-span {
+    font-weight: bold;
+    padding-top: 6px;
+    display: inline-block;
+    padding-bottom: 10px;
+    font-size: 18px;
+}
+p.content-tags {
+    padding: 10px 0px 10px 0px;
+}
